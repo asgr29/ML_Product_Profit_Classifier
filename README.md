@@ -17,6 +17,10 @@ The objective of this project is to build a machine learning classification mode
 
 The dataset used in this project is the Superstore dataset, a publicly available dataset commonly used for analytics and machine learning exercises.
 
+The dataset was found on the Kaggle website where it can be downloaded. The dataset link is the following:
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 It contains transactional information about retail orders, including:
 
 * Sales
