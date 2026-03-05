@@ -187,3 +187,5 @@ The trained model is saved in the repository and can be reused for future predic
 Nick Brown
 GitHub: https://github.com/Nick-Brown-Git
 LinkedIn: https://linkedin.com/in/nick-brown-bb218a3a3/
+Ana Sofía Gómez Ramírez
+Github: https://github.com/asgr29
